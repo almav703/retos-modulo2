@@ -1,0 +1,10 @@
+import java.util.concurrent.Callable;
+
+// Simula el sistema de navegación
+public class SistemaNavegacion implements Callable<String> {
+    @Override
+    public String call() throws Exception {
+        Thread.sleep(1100);
+        return "Navegación: trayectoria verificada sin desvíos.";
+    }
+}
