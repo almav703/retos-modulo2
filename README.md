@@ -5,6 +5,7 @@ Este repositorio contiene las soluciones a los retos del Curso de Java impartido
 ## Tecnologías utilizadas
 
 - Java 17
-- IntelliJ IDEA
-- Git
-- GitHub
+- IntelliJ IDEA como entorno de desarrollo
+- Git y  GitHub
+- Maven (gestión de dependencias y ejecución)
+- Spring Boot 3.0.6
