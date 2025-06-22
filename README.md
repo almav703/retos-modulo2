@@ -9,3 +9,7 @@ Este repositorio contiene las soluciones a los retos del Curso de Java impartido
 - Git y  GitHub
 - Maven (gestión de dependencias y ejecución)
 - Spring Boot 3.0.6
+## Cntenido del repositorio
+Encontraras carpetas separadas por retos de cada sesión
+#Contacto
+- linkedin.com/in/valeriatamariz
